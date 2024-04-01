@@ -20,7 +20,7 @@
 
 ![Vscode](https://img.shields.io/badge/Vscode-B4045F?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## ✨ FitHub Stats
+## ✨ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RailaCarvalho&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=B4045F&title_color=B4045F&text_color=FFF)
 
 ## ✅ Minhas contribuições
